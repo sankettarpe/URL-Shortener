@@ -1,0 +1,5 @@
+1. Need to understand the adminRoutes and admin Controller 
+2. Check the admin side UI properly
+3. Once it done create a repo on github
+4. finally deploy it on vercel and render
+5. we will do it with the Complaint Management system Project  
