@@ -122,7 +122,7 @@ const AdminsList = () => {
                             </>
                           ) : (
                             <>
-                              <FaShield className="w-3 h-3 text-blue-600" />
+                              {/* <FaShield className="w-3 h-3 text-blue-600" /> */}
                               <span className="text-blue-800 bg-blue-100 px-2 py-1 rounded">Admin</span>
                             </>
                           )}
